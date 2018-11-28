@@ -1,0 +1,6 @@
+framework module GradationPageViewController {
+  umbrella header "GradationPageViewController.h"
+
+  export *
+  module * { export * }
+}

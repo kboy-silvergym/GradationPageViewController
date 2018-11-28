@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/fujikawakei/Documents/AppRepository/GradationPageViewController/build/GradationPageViewController.build/Debug-iphoneos/GradationPageViewController.build/DerivedSources/GradationPageViewController_vers.c

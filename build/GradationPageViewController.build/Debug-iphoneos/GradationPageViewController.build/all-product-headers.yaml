@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/fujikawakei/Library/Developer/Xcode/DerivedData/GradationPageViewController-frmjddnssrkwhdfjlyxvitjejdya/Build/Products/Debug-iphoneos/GradationPageViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GradationPageViewController-Swift.h",
+          'external-contents': "/Users/fujikawakei/Library/Developer/Xcode/DerivedData/GradationPageViewController-frmjddnssrkwhdfjlyxvitjejdya/Build/Products/Debug-iphoneos/GradationPageViewController.framework/Headers/GradationPageViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GradationPageViewController.h",
+          'external-contents': "/Users/fujikawakei/Documents/AppRepository/GradationPageViewController/GradationPageViewController/GradationPageViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fujikawakei/Library/Developer/Xcode/DerivedData/GradationPageViewController-frmjddnssrkwhdfjlyxvitjejdya/Build/Products/Debug-iphoneos/GradationPageViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/fujikawakei/Documents/AppRepository/GradationPageViewController/build/GradationPageViewController.build/Debug-iphoneos/GradationPageViewController.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
